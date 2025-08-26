@@ -1,0 +1,5 @@
+{
+  "name": "InsightPal",
+  "description": "An AI-powered web research assistant. Provide a URL, and InsightPal will scrape the content, summarize it, and generate insightful follow-up questions using Gemini.",
+  "requestFramePermissions": []
+}
